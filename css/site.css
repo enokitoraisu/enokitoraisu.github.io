@@ -58,7 +58,9 @@ header ul li a {
 }
 
 header ul li a:hover{
-    background: #ffffff80;
+    background: #ffffff9c;
+}.highlight {
+    background: #ffffff9c;
 }
 
 ::-webkit-scrollbar {
